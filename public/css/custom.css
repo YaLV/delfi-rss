@@ -1,0 +1,18 @@
+.card-body img {
+    padding: 6px;
+    float:left;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.row.justify-content-center {
+    margin-bottom: 20px;
+}
+
+.readmore {
+    position:absolute;
+    bottom:5px;
+    right: 5px;
+}
