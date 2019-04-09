@@ -2,7 +2,7 @@
 
 
 ### Installation ###
-
+* Set up Database
 * run command: __composer install__
 * copy .env.example as .env (if composer fails to do so)
 * run command: __php artisan key:generate__
